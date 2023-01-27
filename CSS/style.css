@@ -1,0 +1,80 @@
+/* quitando margenes*/
+body {
+    margin: 0px;
+}
+
+
+h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 240px;
+}
+nav {
+    position: absolute;
+    top: 70px;
+    right: 250px;
+}
+
+nav a{
+    border: 2px solid black;
+    padding: 15px 25px;
+    color: aliceblue;
+    background-color: #167CC3;
+    font-size: 25px;
+    text-decoration: none;
+    margin-right: 15px; 
+    box-shadow: 4px 5px 6px 1px rgba(0, 0, 0, 0.83);            
+}
+
+#seleccion {
+    background-color: #67DA58;
+}
+
+.banner {
+    background-size: cover;
+    height: 450px;
+    width: 75%;
+    margin-right: 240px;
+    margin-left: 240px;
+}
+h2 {
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 0px 240px 0px 240px;
+}
+
+.logo{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    margin-right: 0px;
+    margin-left: 240px;
+}
+article{
+    width: 700px;
+    margin-top: 1px;
+    margin-left: 600px; 
+}
+
+.home {
+    margin-top: 40px;
+}
+
+.contact{
+    margin-top: 80px;
+    margin-right: 50px;
+}
+
+h4 {
+    margin-top: 5px;
+}
+
+.adicional {
+    height: 300px;
+    width: 350px;
+    position: absolute;
+    top: 580px;
+    right: 240px;
+}
