@@ -101,6 +101,8 @@ h3{
     text-decoration: underline;
 }
 
+/* FLEX BOX */
+
 table {
     display: flex;
     flex-direction: column;
@@ -140,6 +142,8 @@ section .acomodado{
     width: auto;
     height: auto;
 }
+
+   /*FLEX BOX*/
 
 .contenedor {
     display: flex;
